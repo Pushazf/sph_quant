@@ -29,4 +29,3 @@ Recent foundation models are moving toward native multimodal Vision-Language Mod
 - [ ] Add the paper and arXiv links.
 - [ ] Release calibration, quantization, and CUDA inference code.
 - [ ] Release evaluation scripts and reproduction instructions.
-- [ ] Add the supplementary-material download.
