@@ -16,7 +16,7 @@ Recent foundation models are moving toward native multimodal Vision-Language Mod
 ## 🔎 Main Results
 
 <details open>
-<summary>Quantitative Results (click to expand/collapse)</summary>
+<summary>Quantitative Results</summary>
 
 <p align="center">
   <img width="900" src="assets/main_results.png" alt="Table 1: Standard VLM benchmark results for Qwen3-VL-8B-Instruct, Qwen3.5-9B, and Gemma4-26B-A4B, including quantization settings and encoded-bit definitions.">
