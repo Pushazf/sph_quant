@@ -1,6 +1,6 @@
 # [NeurIPS 2026] SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models
 
-Kewei Zhang, Zheng Chen, Haotong Qin, and Yulun Zhang, "SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models", NeurIPS 2026
+[Kewei Zhang](https://github.com/Pushazf), [Zheng Chen](https://zheng-chen.cn/), [Haotong Qin](https://htqin.github.io/), and [Yulun Zhang](https://yulunzhang.com/), "SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models", NeurIPS 2026
 
 ## 📝 Abstract
 
