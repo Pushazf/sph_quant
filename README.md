@@ -33,13 +33,9 @@ SPHQuant achieves competitive accuracy across three recent VLMs at extreme low b
 
 <p align="center">
   <a href="assets/main_results.png">
-    <img width="100%" src="assets/main_results_table.png" alt="Standard VLM benchmark results for Qwen3-VL-8B-Instruct, Qwen3.5-9B, and Gemma4-26B-A4B. SPHQuant rows are shaded gray; see the bit-width notes below.">
+    <img width="100%" src="assets/main_results_table.png" alt="Standard VLM benchmark results for Qwen3-VL-8B-Instruct, Qwen3.5-9B, and Gemma4-26B-A4B. SPHQuant rows are shaded gray.">
   </a>
 </p>
-
-[View full-resolution table](assets/main_results.png)
-
-**Bit-width notes.** Bit denotes nominal quantization settings. SPHQuant W2 uses **2.25 encoded bits per weight**; its Qwen3-VL-8B-Instruct W3 row uses **3.125**. These payloads exclude group parameters and codebooks. See [the paper](https://arxiv.org/abs/2609.24875) for matched-bit comparisons.
 
 </details>
 
