@@ -8,7 +8,7 @@
 
 ---
 
-## 🧩 Overview
+### Overview
 
 ![Overview of SPHQuant: spherical weight quantization and packed extra radius bits](assets/overview.png)
 
