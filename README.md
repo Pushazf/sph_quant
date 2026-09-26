@@ -1,4 +1,4 @@
-# SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models
+# [NeurIPS 2026] SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models
 
 **Kewei Zhang<sup>1</sup>, Zheng Chen<sup>1</sup>, Haotong Qin<sup>2</sup>, Yulun Zhang<sup>1,†</sup>**
 
