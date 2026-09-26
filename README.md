@@ -43,6 +43,7 @@ SPHQuant achieves competitive accuracy across three recent VLMs at extreme low b
 
 - [x] Add the paper and arXiv links.
 - [ ] Release calibration, quantization, and CUDA inference code.
+- [ ] Release 2-bit quantized model weights.
 - [ ] Release evaluation scripts and reproduction instructions.
 
 ## <a name="citation"></a>📎 Citation
